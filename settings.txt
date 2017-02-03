@@ -1,0 +1,9 @@
+﻿[General]
+portal=http://example.com
+
+[Auth]
+userName=admin@example.com
+password=password
+
+[Defaults]
+avatar=http://example.com/defaulavatar.jpg
